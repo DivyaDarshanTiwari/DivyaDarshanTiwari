@@ -77,6 +77,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DivyaDarshanTiwari/DivyaDarshanTiwari/output/snake.svg" alt="Snake animation" />
-
-###
